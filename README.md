@@ -1,2 +1,2 @@
-# Udemy-Coding-Exercises
-A repository for all Udemy Coding Exercises
+# Udemy_Coding_Exercises_Java
+A repository for all Udemy Coding Exercises for Java
